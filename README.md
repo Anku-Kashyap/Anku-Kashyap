@@ -1,7 +1,8 @@
 <p align='center'>
   <img  src="https://github.com/Anku-Kashyap/Anku-kashyap/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
-<h2 align="center">Hi Everyone <img width="30px" src="https://github.com/Anku-Kashyap/Anku-kashyap/blob/master/gifs/Hi.gif">,I'm <a href="https://anku-kashyap.github.io/Personal-Portfolio/">Ankush</a></h2>
+<h2 align="center">Hi Everyone<img width="30px" src="https://github.com/Anku-Kashyap/Anku-kashyap/blob/master/gifs/Hi.gif"></h2>
+  <h1>I'm <a href="https://anku-kashyap.github.io/Personal-Portfolio/">Ankush</a></h1>
 <p align="center">
   <samp>
 I'm Ankush Kashyap, a Computer post-graduate at the Savitribai Phule Pune University (SPPU), Pune, pursuing a Master of Computer Application in my Second Year. I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I have a keen interest in the field of Application Development and Competitive coding.Apart from being a Tech Geek,I love to travel especially trekking and hiking.
